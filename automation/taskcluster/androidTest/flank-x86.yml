@@ -45,10 +45,6 @@ gcloud:
   device:
    - model: Pixel2
      version: 28
-  - model: Pixel2
-     version: 29
-  - model: Nexus6P
-     version: 27
 
 
 flank:

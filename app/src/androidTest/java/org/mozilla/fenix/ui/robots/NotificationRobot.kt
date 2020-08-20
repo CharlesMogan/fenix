@@ -1,6 +1,5 @@
 package org.mozilla.fenix.ui.robots
 
-import android.content.res.Resources
 import androidx.test.uiautomator.By.text
 import androidx.test.uiautomator.UiObjectNotFoundException
 import androidx.test.uiautomator.UiScrollable
